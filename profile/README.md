@@ -1,7 +1,7 @@
 ## To Me From Me
 ### 과거의 내가 미래의 나에게 보내는 편지
 
-### 기능
+## 기능
 1. 소셜 로그인/회원가입
 2. 편지보내기
 3. 내가 쓴 편지 리스트
@@ -29,14 +29,14 @@
   - 삭제
 
 
-### 기술 스택
-## Backend
+## 기술 스택
+### Backend
 - Java11, Gradle, Spring Data JPA, QueryDsl, MySql, H2, AWS(EC2, S3)
 
-## Frontend
+### Frontend
 - Vue.js, HTML, CSS
 
-## Etc
+### Etc
 - Git, GtiHub
 
 
