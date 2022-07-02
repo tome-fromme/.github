@@ -1,12 +1,29 @@
-## Hi there 👋
+## To Me From Me
+### 과거의 내가 미래의 나에게 보내는 편지
 
-<!--
+### 기능
+1. 소셜 로그인/회원가입
+2. 편지보내기
+3. 내가 쓴 편지 리스트
+4. 편지 상세보기
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 기능 세부사항
+1. 소셜 로그인/회원가입
+  - 카카오 로그인/회원가입
+  
+2. 편지보내기
+  - 제목
+  - 내용
+  - 보내는 날짜 설정
+  - 위치 지도 공유
+  - 사진 업로드 (최대 5장)
+  
+3. 내가 쓴 편지 보기
+  - 제목
+  - 전송일
+  - 전송 여부
+  
+4. 편지 상세보기
+  - 편지 내용 확인
+  - 수정
+  - 삭제
