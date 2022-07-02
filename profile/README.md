@@ -27,3 +27,20 @@
   - 편지 내용 확인
   - 수정
   - 삭제
+
+-----
+
+### 기술 스택
+## Backend
+Java11, Gradle, Spring Data JPA, QueryDsl, MySql, H2, AWS(EC2, S3)
+
+## Frontend
+Vue.js, HTML, CSS
+
+## Etc
+Git, GtiHub
+
+------
+
+## ERD
+![tmfm_erd](https://user-images.githubusercontent.com/82077746/176989639-dd3d7096-cd3d-448e-8be8-3ffee56c0a62.png)
