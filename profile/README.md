@@ -31,13 +31,13 @@
 
 ### 기술 스택
 ## Backend
-Java11, Gradle, Spring Data JPA, QueryDsl, MySql, H2, AWS(EC2, S3)
+- Java11, Gradle, Spring Data JPA, QueryDsl, MySql, H2, AWS(EC2, S3)
 
 ## Frontend
-Vue.js, HTML, CSS
+- Vue.js, HTML, CSS
 
 ## Etc
-Git, GtiHub
+- Git, GtiHub
 
 
 ## ERD
