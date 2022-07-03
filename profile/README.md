@@ -34,7 +34,7 @@
 - Java11, Gradle, Spring Data JPA, QueryDsl, MySql, H2, AWS(EC2, S3)
 
 ### Frontend
-- Vue.js, HTML, CSS
+- Vue.js, HTML, CSS, Bootstrap
 
 ### Etc
 - Git, GtiHub
